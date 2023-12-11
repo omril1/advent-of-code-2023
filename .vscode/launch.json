@@ -11,7 +11,7 @@
             "runtimeExecutable": "yarn",
             "runtimeArgs": [
                 "tsx",
-                "${workspaceFolder}/day-10/part-1.ts"
+                "${file}"
             ],
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
